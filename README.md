@@ -3,6 +3,8 @@ TileServer PHP: MapTiler and MBTiles maps via WMTS
 
 Public hosted maps at: http://www.fqdb.nl/tileserver/
 
+This is Klokantech's tileserver-php with some branding and crediting for Copernicus Open Access Hub
+
 Credits / Contributors
 ----------------------
 
