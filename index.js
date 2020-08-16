@@ -2669,7 +2669,7 @@ var ie = /[\x00\x22\x26\x27\x3c\x3e]/g,
 
 function oe(a) {
     a = a || {};
-    return '\x3cdiv id\x3d"content"\x3e\x3cdiv id\x3d"header" ' + (!1 == a.ma ? 'class \x3d "hidden" ' : "") + '\x3e\x3cdiv id\x3d"strap"\x3eData based on \x3ca href\x3d"https://scihub.copernicus.eu/dhus/"\x3e  scihub.copernicus.eu/dhus \x3c/a\x3e \x3c/br\x3e \x3ca href\x3d"https://wiki.openstreetmap.org/wiki/User:Ff5722/Using_Sentinel-2_imagery"\x3eMore info\x3c/a\x3e \x3c/div\x3e\x3c/div\x3e\x3cdiv id\x3d"sidebar" ' + (!1 == a.ma ? 'style\x3d"top: 0;"' : "") + '\x3e\x3c/div\x3e\x3cpre id\x3d"code" ' + (!1 == a.ma ? 'style\x3d"top: 0;"' : "") + '\x3e\x3c/pre\x3e\x3cdiv id\x3d"map" ' +
+    return '\x3cdiv id\x3d"content"\x3e\x3cdiv id\x3d"header" ' + (!1 == a.ma ? 'class \x3d "hidden" ' : "") + '\x3e\x3cdiv id\x3d"strap"\x3eData based on \x3ca href\x3d"https://scihub.copernicus.eu/twiki/do/view/SciHubWebPortal/TermsConditions"\x3e  Copernicus Open Access Hub \x3c/a\x3e \x3c/br\x3e \x3ca href\x3d"https://wiki.openstreetmap.org/wiki/User:Ff5722/Using_Sentinel-2_imagery"\x3eMore info\x3c/a\x3e \x3c/div\x3e\x3c/div\x3e\x3cdiv id\x3d"sidebar" ' + (!1 == a.ma ? 'style\x3d"top: 0;"' : "") + '\x3e\x3c/div\x3e\x3cpre id\x3d"code" ' + (!1 == a.ma ? 'style\x3d"top: 0;"' : "") + '\x3e\x3c/pre\x3e\x3cdiv id\x3d"map" ' +
         (!1 == a.ma ? 'style\x3d"top: 0;"' : "") + '\x3e\x3c/div\x3e\x3cdiv id\x3d"wall" ' + (!1 == a.ma ? 'style\x3d"top: 0;"' : "") + "\x3e\x3c/div\x3e" + (a.zb ? a.zb : "") + "\x3c/div\x3e"
 };
 
