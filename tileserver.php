@@ -564,6 +564,7 @@ class Server {
       }
       echo '</body></html>';
     }
+	include("/statcounter.html");
   }
 
 }
